@@ -1,0 +1,18 @@
+ref,value,footprint,Digikey Part No.,Mouser Part No.,Quantity
+C1 C7 C8,0.1uF,project_footprints:C_0402_Hand,490-6328-1-ND,,300
+L1,FB,Resistors_SMD:R_0805_HandSoldering,240-2390-1-ND,,100
+C4 C5,47pF,project_footprints:C_0402_Hand,490-6241-1-ND,,200
+D2,BAT20J,project_footprints:sod323,497-3381-1-ND,,100
+C2,1uF,project_footprints:C_0402_Hand,490-1320-1-ND,,100
+D3,RXLED,idlehands_footprints:Led_0603,160-1448-1-ND,,100
+U1,AP2112K-3.3V,TO_SOT_Packages_SMD:SOT-23-5,AP2112K-3.3TRG1DICT-ND,,100
+D4 D5,TXLED,idlehands_footprints:Led_0603,160-1446-1-ND,,200
+U3,FT230XS,Housings_SSOP:SSOP-16_3.9x4.9mm_Pitch0.635mm,768-1135-1-ND,,100
+R9 R10,27R,idlehands_footprints:R_0402_Hand,311-27JRCT-ND,,200
+F1,500mA,idlehands_footprints:c_1206,507-1802-1-ND,,100
+P1,USB_OTG,,609-4618-1-ND,,100
+D1,PWR,idlehands_footprints:Led_0603,160-1447-1-ND,,100
+R1 R2 R5,10K,idlehands_footprints:R_0402_Hand,311-10KJRCT-ND,,300
+R4 R3 R6 R7 R8 R11 R12 R13,1K,idlehands_footprints:R_0402_Hand,311-1.0KJRCT-ND,,800
+C3,2.2uF,project_footprints:C_0402_Hand,490-10451-1-ND,,100
+C6 C9,10uF,project_footprints:C_0402_Hand,490-1718-1-ND,,200

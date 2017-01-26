@@ -1,2 +1,2 @@
-# espeverywhere
-Special Kickstarter Edition ESP8266 Board.
+# ESPEverywhere
+ESP8266 Special Make/100 Kickstarter Edition
