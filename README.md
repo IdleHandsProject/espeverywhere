@@ -1,6 +1,8 @@
 # ESPEverywhere
 ESP8266 Special Make/100 Kickstarter Edition
 
+![ESP Everywhere](http://imgur.com/XcDUjpF.jpg?raw=true "ESP Everywhere")
+
 Check out why this board exists here:
 https://www.youtube.com/watch?v=67Kh_ikb-ds
 
