@@ -1120,4 +1120,6 @@ Wire Wire Line
 	2200 6050 2300 6050
 Wire Wire Line
 	2200 6750 2350 6750
+Text Notes 2900 6000 0    98   ~ 0
+*Works with Cable:  455-3016-ND
 $EndSCHEMATC
