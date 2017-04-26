@@ -7,8 +7,8 @@ Check out why this board exists here:
 https://www.youtube.com/watch?v=67Kh_ikb-ds
 
 Thanks to the Backers of the #Make100(And the others as well!):
-Rolandas Launikonis
-Erlend Schei
+Rolandas Launikonis  
+Erlend Schei  
 Andrew Chalkley
 Anthony Castaneda
 APSoft
